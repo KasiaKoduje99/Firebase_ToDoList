@@ -3,11 +3,12 @@
   padding: 0;
 }
 html {
-  font-family: 'Roboto', sans-serif;
-  color: #fffde7;
+  font-family: 'American Typewriter', sans-serif;
+  font-size: 18px;
+  color: #080101;
 }
 body {
-  background-color: #282828;
+  background-color: #d9cbe9;
 }
 .main-header {
   background-color: #0a0a0a;
